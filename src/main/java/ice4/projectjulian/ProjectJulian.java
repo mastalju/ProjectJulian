@@ -14,5 +14,7 @@ public class ProjectJulian {
         System.out.println("Hello World!");
         int testValue = 1;
         System.out.println(testValue);
+        
+        System.out.println("Second feature");
     }
 }
